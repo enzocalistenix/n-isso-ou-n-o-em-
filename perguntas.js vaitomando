@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Treino e Desempenho',
+    'O que é resistência muscular?',
+    'A capacidade do músculo de sustentar movimentos repetitivos por mais tempo.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Desenvolvimento Cognitivo',
+    'O que é raciocínio indutivo?',
+    'É a conclusão geral a partir de observações específicas.
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Estudo e Memória',
+    'Qual a função da prática espaçada?',
+    'Ajuda a reter informações por mais tempo.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Suplementação',
+    'Para que serve a creatina?',
+    'Aumenta a energia e a força muscular.'
 )
