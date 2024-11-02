@@ -1,5 +1,5 @@
 :root {
-    --text-color: #DBE4EF;
+    --text-color: #00ff00;
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
 }
@@ -19,7 +19,7 @@ body {
 
 .cartao {
     margin: 1rem 1rem;
-    height: 20rem;
+    height: 25rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
@@ -30,7 +30,7 @@ body {
     /* background-color: aquamarine; */
     height: 100%;
     transform-style: preserve-3d;
-    transition: transform 300ms ease-in-out;
+    transition: transform 500ms ease-in-out;
 }
 
 .cartao__conteudo h3 {
